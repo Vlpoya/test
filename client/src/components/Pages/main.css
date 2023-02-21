@@ -1,0 +1,18 @@
+.container {
+  margin: 0 auto;
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: url("../../../public/High_resolution_wallpaper_background_ID_77700794227.jpg") no-repeat fixed center;
+}
+
+.search {
+  margin: 0 auto;
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.noname {
+  margin-top: 40px;
+}/*# sourceMappingURL=main.css.map */
